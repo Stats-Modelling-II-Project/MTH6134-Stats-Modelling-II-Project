@@ -1,0 +1,1 @@
+Summary: A group analytical report on data from the fictional 2023/24 Midland Premier League season, together with an individual contribution statement from each group member and supporting evidence of the group's work. Full details  provided in the project brief.
