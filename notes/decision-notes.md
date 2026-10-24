@@ -7,9 +7,9 @@ Is training intensity associated with injury probability among football players 
 ### Model Selection
 Selected binomial logistic regression because the response variable, `injured`, is binary (1 = injured, 0 = not injured).
 
-- Response variable: `injured`
-- Explanatory variable: `training_load` (scored from 1 to 5)
-- Model: `injured ~ training_load`
+- Response variable: injured
+- Explanatory variable: training_load (scored from 1 to 5)
+- Model: injured ~ training_load
 - Link function: Logit
 
 ### Hypotheses
