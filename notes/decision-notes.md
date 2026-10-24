@@ -5,7 +5,7 @@
 Is training intensity associated with injury probability among football players in the Midland Premier League 2023/24?
 
 ### Model Selection
-Selected binomial logistic regression because the response variable, `injured`, is binary (1 = injured, 0 = not injured).
+Selected binomial logistic regression because the response variable, injured, is binary (1 = injured, 0 = not injured).
 
 - Response variable: injured
 - Explanatory variable: training_load (scored from 1 to 5)
