@@ -13,8 +13,9 @@ Selected binomial logistic regression because the response variable, `injured`, 
 - Link function: Logit
 
 ### Hypotheses
-**Null hypothesis (H₀): β₁ = 0**            There is no association between training intensity and the odds of injury.
-**Alternative hypothesis (H₁): β₁ ≠ 0**     There is an association between training intensity and the odds of injury.
+**Null hypothesis (H₀): β₁ = 0** There is no association between training intensity and the odds of injury.
+
+**Alternative hypothesis (H₁): β₁ ≠ 0** There is an association between training intensity and the odds of injury.
 
 ### Results
 The estimated coefficient for training intensity was 0.3513, with a Wald test p-value of 0.00083.
